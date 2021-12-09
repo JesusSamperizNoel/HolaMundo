@@ -1,4 +1,4 @@
 # HolaMundo
 Mi primer repositorio
 
-Esto lo hemos añadido en la rama cualidades
+Esta es otra version realizada en otra rama
