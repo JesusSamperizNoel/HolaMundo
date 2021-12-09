@@ -1,7 +1,6 @@
 # HolaMundo
 Mi primer repositorio
 
-Estoy introduciendo cambios en el archivo HolaMundo
+Esto ha sido modificado en la rama principal
 
-En la terceraRama 
-
+En la rama main
